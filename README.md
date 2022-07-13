@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RAMDANI TEGAR BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
@@ -32,12 +32,12 @@
 ---
 
 ## Information
-> Ramdani botz Md (multi device) adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz Multi Device is a bot whatsapp using a Baileys library.
+> TEGAR BOTZ (multi device) adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Tegar botz Multi Device is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-Ramdani botz](https://wa.me/6289512545999)
+* Info Lebih Lanjut, Chat [owner-Ramdani botz](https://wa.me/62895323254598)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
